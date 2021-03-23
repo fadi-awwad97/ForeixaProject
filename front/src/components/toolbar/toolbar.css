@@ -1,0 +1,16 @@
+/* @media screen and (max-width: 600px) {
+    ul.topnav li.right, 
+    ul.topnav li {float: none;}
+  } */
+  .trapezoid {
+	border-bottom: 50px solid rgb(216, 94, 24);
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    
+	width: 35%;
+    /* top: 100px;
+    border:1px solid red; */
+    /* margin-top: 150px; */
+    text-align: center;
+}
